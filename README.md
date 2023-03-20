@@ -7,12 +7,19 @@ In this competition we will be ranking comments in order of severity of toxicity
 This notebook provides an approach to solve the Jigsaw Toxic Comment Classification Challenge. The following sections provide an overview of the steps taken to prepare the data, extract features, train and fine-tune the model, and evaluate its performance.
 
 : Libraries used :
+
 numpy: A library for numerical computing in Python.
+
 pandas: A library for data manipulation and analysis.
+
 matplotlib: A library for data visualization.
+
 seaborn: A library for data visualization built on top of matplotlib.
+
 sklearn: A library for machine learning in Python. It provides tools for data preprocessing, feature extraction, model selection, model evaluation, and more.
+
 nltk: A library for natural language processing (NLP) in Python. It provides tools for text preprocessing, tokenization, stemming, and more.
+
 re: A library for regular expressions in Python. It provides tools for pattern matching and string manipulation.
 
 step1:Data Preparation
